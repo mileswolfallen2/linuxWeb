@@ -1,9 +1,1 @@
-.vscode/
-.vscode
-.vscode/*
-node_modules
-package-lock.json
-yarn.lock
-**.zip
-tmp
-dist
+
